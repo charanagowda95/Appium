@@ -36,7 +36,7 @@ public class LaunchApp {
 		WebElement Products = driver.findElementByAndroidUIAutomator("text(\"PRODUCTS\")");
 		driver.tap(1, Products, 200);
 		WebElement Shirts = driver.findElementByAndroidUIAutomator("text(\"Shirts\")");
-		WebElement  = driver.findElementByAndroidUIAutomator("text(\"PRODUCTS\")");
+		WebElement ac  = driver.findElementByAndroidUIAutomator("text(\"PRODUCTS\")");
 	}
 
 }
